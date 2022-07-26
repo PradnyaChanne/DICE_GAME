@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(41, 91, 91);
+    text-align: center;
+}
+
+h1{
+    color: aquamarine;
+    font-size:6rem;
+}
+
+.player{
+    color: aquamarine;
+    grid-column: span;
+    font-size: 30px;
+    display: inline-block;
+    
+}
+img{
+    width: 250px;
+    margin: 9px;
+}
+
+footer{
+    color: beige;
+    background-color: black;
+    padding: 0.5px;
+    margin-top: 8%;
+}
